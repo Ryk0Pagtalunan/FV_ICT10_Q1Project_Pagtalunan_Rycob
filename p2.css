@@ -1,0 +1,52 @@
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container1{
+	background-color: #696FC7;
+	width: 750px;
+	padding: 15px;
+	border: 5px solid #A7AAE1;
+	margin: 25px;
+    opacity: 0.9;
+}
+#title{
+    color: whitesmoke;
+}
+label{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#name{
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#address{
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#contact{
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#frog{
+    margin-left: 4px;
+}
+#dog{
+    margin-left: 1px;
+}
+#cat{
+    margin-right: 8px;
+}
+#button{
+    width: 200px;
+}
+#navbg{
+    background-image: linear-gradient(#fa6bf0, #9f4ef5);
+}
+#logo{
+    width: 40px;
+    height: 40px;
+}

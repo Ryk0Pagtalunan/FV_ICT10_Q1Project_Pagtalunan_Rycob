@@ -1,0 +1,53 @@
+#navbg{
+    background-image: linear-gradient(#fa6bf0, #9f4ef5);
+}
+#logo{
+    width: 40px;
+    height: 40px;
+}
+body{
+    background-image: url(background3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#container1{
+    background-image: linear-gradient(#fa6bf0, #9f4ef5);
+    width: 1200px;
+    opacity: 0.95;
+}
+#container2{
+    background-image: linear-gradient(#fa6bf0, #9f4ef5);
+    width: 400px;
+    opacity: 0.95;
+    size: fixed;
+}
+#container{
+    display: flex;
+    flex-direction: row; /* had to ask ai since I forgot the code to make them aligned */
+    justify-content: space-around; /* had to ask ai since I forgot the code to make them aligned */
+    align-items: flex-start; /* had to ask ai since I forgot the code to make them aligned */
+}
+#msg1{
+    font-size: 15px;
+}
+#msg2{
+    font-size: 15px;
+    margin: 25px;
+}
+#msg3{
+    font-size: 15px;
+    margin: 25px;
+}
+#msg4{
+    font-size: 15px;
+    margin: 25px;
+}
+#img{
+    width: 75px;
+    height: 75px;
+}
+#img2{
+    width: 75px;
+    height: 75px;
+}

@@ -1,0 +1,40 @@
+#container1{
+    background-image: linear-gradient(#fa6bf0, #9f4ef5);
+    width: 750px;
+    opacity: 0.95;
+}
+body{
+    background-image: url(back_ground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#container2{
+    background-image: linear-gradient(#9f4ef5, #fa6bf0);
+}
+#time{
+    background-image: linear-gradient(#9f4ef5, #fa6bf0);
+    text-align: center;
+    color: black;
+}
+#delivery{
+    background-image: linear-gradient(#9f4ef5, #fa6bf0);
+    text-align: center;
+    color: black;
+    width: 250px;
+}
+td{
+    background-image: linear-gradient(#9f4ef5);
+    opacity: 0.98;
+}
+th{
+    background-image: linear-gradient(#d633f2);
+    opacity: 0.98;
+}
+#navbg{
+    background-image: linear-gradient(#fa6bf0, #9f4ef5);
+}
+#logo{
+    width: 40px;
+    height: 40px;
+}
